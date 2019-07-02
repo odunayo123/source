@@ -2,7 +2,7 @@
 uname -a > test1.txt
 cat test1.txt
 echo "This is our first scrip"
-echo "we gonna imput some parameters called $PARAMS"
+echo "we gonna imput some parameters called params"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "$NUM" >> test1.txt
