@@ -6,3 +6,4 @@ echo "we gonna imput some parameters called $PARAMS"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "$NUM" >> test1.txt
+echo "sammy is great"
