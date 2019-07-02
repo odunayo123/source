@@ -9,4 +9,3 @@ echo "$NUM" >> test1.txt
 echo "sammy-sosa is so good to me"
 systemctl status jenkins >> test1.txt
 echo "Thank you Jesus" > test2.txt
-cat test2.txt
