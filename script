@@ -1,5 +1,5 @@
 #!/bin/bash
-uname -a > touch test1.txt
+uname -a > test1.txt
 cat test1.txt
 echo "This is our first scrip"
 echo "we gonna imput some parameters called $PARAMS"
